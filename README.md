@@ -1,7 +1,10 @@
 # Spotify Clone made with Astro, TypeScript, TailwindCss and ReactJs
 
 ## Include playlist with playable songs
-- Credits to midudev 
+- Credits to midudev
+
+[![clon-1.png](https://i.postimg.cc/J0r8MkzT/clon-1.png)](https://postimg.cc/LYbwVhff)
+[![clon-2.png](https://i.postimg.cc/8CvNHGYb/clon-2.png)](https://postimg.cc/GBbWLWdB)
 
 ## 🧞 Commands
 
